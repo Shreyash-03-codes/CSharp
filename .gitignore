@@ -1,0 +1,41 @@
+## Build outputs and binaries
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Log]s/
+*.pdb
+
+## Visual Studio cache, settings, and user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code settings
+.vscode/
+!/.vscode/extensions.json
+*.code-workspace
+
+## JetBrains Rider / IntelliJ IDE config
+.idea/
+*.sln.iml
+
+## NuGet Packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+## Operating System temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Local environment secrets and settings (Never commit your secrets!)
+.env
+appsettings.Development.json
+appsettings.Local.json
