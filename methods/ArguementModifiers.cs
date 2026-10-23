@@ -1,4 +1,4 @@
-namespace methods;
+namespace Methods;
 
 using System;
 

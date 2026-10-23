@@ -1,4 +1,4 @@
-namespace strings;
+namespace Strings;
 
 using System;
 using System.Text;

@@ -1,4 +1,4 @@
-namespace arrays;
+namespace Arrays;
 
 using System;
 
